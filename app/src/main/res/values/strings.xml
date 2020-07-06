@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CitanjeTeksta</string>
+    <string name="prikazi_tekst_sa_slike">Prikazi tekst sa slike</string>
+    <string name="pokreni_kameru">Pokreni kameru</string>
+</resources>
